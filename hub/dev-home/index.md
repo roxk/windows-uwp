@@ -14,6 +14,10 @@ Dev Home is a new control center for Windows providing the ability to monitor pr
 - Use **Dev Home extensions** to set up widgets that display developer-specific information. Create and share your own custom-built extensions.
 - Create a **Dev Drive** to store your project files and Git repositories.
 
+## Dev Home Preview
+
+Dev Home is still in early preview. Bugs and instability are expected. By releasing early, the team can receive feedback earlier and iterate faster. Try out Dev Home and tell us what you think! Contributions (Pull Requests, bug reports) are welcome.
+
 > [!div class="nextstepaction"]
 > [Install Dev Home (Preview)](https://aka.ms/devhome)
 
